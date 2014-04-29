@@ -4,10 +4,10 @@ This is a quick little ask-me-anything type of repository. It is forked from
 [@holman's feedback repo](https://github.com/holman/feedback) and seems like a pretty fantastic 
 idea in lieu of traditional blog comments, email, and the like.
 
-I talk and meetups and conferences about many aspects of the web and web development. I also [blog](http://hpoom.co.uk/) about 
+I talk at meetups and conferences about many aspects of the web and web development. I also [blog](http://hpoom.co.uk/) about 
 web development because I love talking and discussing technology. So If you have any questions
 about about one of my talks, my views on the internet and web development, or questions about
-me in general, send 'em this way... I'd be happy to shed some light on the issue.
+me in general, send them this way... I would be happy to answer them.
 
 If you have any technical problems with one of my other git repositories, you are best to raise an issue under the appropriate repository. 
 
